@@ -1,0 +1,36 @@
+.ant-collapse-header {
+    background-color: black !important;
+}
+
+
+.ant-collapse-content-box {
+    background-color: black;
+}
+
+.ant-input {
+    background-color: #80ff80 !important;
+    color: black !important;
+}
+
+.ant-input-search-icon{
+    color: black !important;
+}
+
+::placeholder {
+    color: black !important;
+    font-weight: 500 !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.ant-card-body {
+    background-color: black;
+}
+
+.ant-card-meta-description {
+    color: #80ff80 !important;
+}
+
+.ant-card-bordered {
+    -webkit-box-shadow: 5px 3px 27px -11px #66ff66; 
+    box-shadow: 5px 3px 27px -11px #66ff66;
+}
